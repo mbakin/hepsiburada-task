@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hepsiburada-task/static/css/main.dbf30c9f.chunk.css",
-    "main.js": "/hepsiburada-task/static/js/main.384373da.chunk.js",
-    "main.js.map": "/hepsiburada-task/static/js/main.384373da.chunk.js.map",
+    "main.js": "/hepsiburada-task/static/js/main.c16cf759.chunk.js",
+    "main.js.map": "/hepsiburada-task/static/js/main.c16cf759.chunk.js.map",
     "runtime-main.js": "/hepsiburada-task/static/js/runtime-main.dbe204f1.js",
     "runtime-main.js.map": "/hepsiburada-task/static/js/runtime-main.dbe204f1.js.map",
     "static/css/2.da1eef19.chunk.css": "/hepsiburada-task/static/css/2.da1eef19.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.da1eef19.chunk.css",
     "static/js/2.a01db37a.chunk.js",
     "static/css/main.dbf30c9f.chunk.css",
-    "static/js/main.384373da.chunk.js"
+    "static/js/main.c16cf759.chunk.js"
   ]
 }
