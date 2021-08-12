@@ -1,0 +1,10 @@
+.homeSubmitBtn{
+  width:160px;
+  height:55px;
+  border: none; 
+  background-color: coral;
+}
+.homeSubmitBtnContainer{
+  margin: 15px auto ;
+  width: 160px;
+}

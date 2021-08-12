@@ -1,0 +1,15 @@
+.paginationContainer{
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  border: none
+}
+.paginationList{
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.paginationList a{
+  margin: 7px;
+}
