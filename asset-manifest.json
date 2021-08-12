@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hepsiburada-task/static/css/main.dbf30c9f.chunk.css",
+    "main.js": "/hepsiburada-task/static/js/main.384373da.chunk.js",
+    "main.js.map": "/hepsiburada-task/static/js/main.384373da.chunk.js.map",
+    "runtime-main.js": "/hepsiburada-task/static/js/runtime-main.dbe204f1.js",
+    "runtime-main.js.map": "/hepsiburada-task/static/js/runtime-main.dbe204f1.js.map",
+    "static/css/2.da1eef19.chunk.css": "/hepsiburada-task/static/css/2.da1eef19.chunk.css",
+    "static/js/2.a01db37a.chunk.js": "/hepsiburada-task/static/js/2.a01db37a.chunk.js",
+    "static/js/2.a01db37a.chunk.js.map": "/hepsiburada-task/static/js/2.a01db37a.chunk.js.map",
+    "static/js/3.b6233c34.chunk.js": "/hepsiburada-task/static/js/3.b6233c34.chunk.js",
+    "static/js/3.b6233c34.chunk.js.map": "/hepsiburada-task/static/js/3.b6233c34.chunk.js.map",
+    "index.html": "/hepsiburada-task/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/hepsiburada-task/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.dbf30c9f.chunk.css.map": "/hepsiburada-task/static/css/main.dbf30c9f.chunk.css.map",
+    "static/js/2.a01db37a.chunk.js.LICENSE.txt": "/hepsiburada-task/static/js/2.a01db37a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbe204f1.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.a01db37a.chunk.js",
+    "static/css/main.dbf30c9f.chunk.css",
+    "static/js/main.384373da.chunk.js"
+  ]
+}
